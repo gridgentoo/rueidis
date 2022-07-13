@@ -1,3 +1,6 @@
+Оригинальный репозиторий  
+https://github.com/rueian/rueidis   
+
 # rueidis
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/rueian/rueidis.svg)](https://pkg.go.dev/github.com/rueian/rueidis)
